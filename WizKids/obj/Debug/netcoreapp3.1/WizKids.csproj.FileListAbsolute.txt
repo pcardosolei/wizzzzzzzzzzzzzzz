@@ -1,0 +1,11 @@
+C:\Users\pcardoso\source\repos\WizKids\WizKids\bin\Debug\netcoreapp3.1\WizKids.exe
+C:\Users\pcardoso\source\repos\WizKids\WizKids\bin\Debug\netcoreapp3.1\WizKids.deps.json
+C:\Users\pcardoso\source\repos\WizKids\WizKids\bin\Debug\netcoreapp3.1\WizKids.runtimeconfig.json
+C:\Users\pcardoso\source\repos\WizKids\WizKids\bin\Debug\netcoreapp3.1\WizKids.runtimeconfig.dev.json
+C:\Users\pcardoso\source\repos\WizKids\WizKids\bin\Debug\netcoreapp3.1\WizKids.dll
+C:\Users\pcardoso\source\repos\WizKids\WizKids\bin\Debug\netcoreapp3.1\WizKids.pdb
+C:\Users\pcardoso\source\repos\WizKids\WizKids\obj\Debug\netcoreapp3.1\WizKids.csprojAssemblyReference.cache
+C:\Users\pcardoso\source\repos\WizKids\WizKids\obj\Debug\netcoreapp3.1\WizKids.AssemblyInfoInputs.cache
+C:\Users\pcardoso\source\repos\WizKids\WizKids\obj\Debug\netcoreapp3.1\WizKids.AssemblyInfo.cs
+C:\Users\pcardoso\source\repos\WizKids\WizKids\obj\Debug\netcoreapp3.1\WizKids.dll
+C:\Users\pcardoso\source\repos\WizKids\WizKids\obj\Debug\netcoreapp3.1\WizKids.pdb
